@@ -1,4 +1,3 @@
-# Use a Java 17 image (or whichever version your app uses)
 FROM eclipse-temurin:21-jdk-alpine
 
 
