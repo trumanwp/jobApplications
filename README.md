@@ -32,3 +32,7 @@ A full-stack web application to help users manage and track their job applicatio
 
 ![Example Screenshot](jobappex.png)
 
+
+**Note**
+This project was inspired by a basic tutorial for learning Spring Boot. I refactored the app to track job applications, redesigned both frontend and backend code, switched to a new database, containerized it with Docker, and deployed it live—effectively making it a full, functional, independent project.
+
