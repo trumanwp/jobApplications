@@ -30,3 +30,5 @@ A full-stack web application to help users manage and track their job applicatio
 
 **Next steps**: Implementing user accounts and persistent per-user memory.
 
+![Example Screenshot](jobappex.png)
+
